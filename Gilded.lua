@@ -145,7 +145,7 @@ local function loadAura(name)
             trans=strans,sp={2,3},li={3,3},rate=10,spr={360,360},
             rot={-360,360},rs={-140,140},le=1,ed=0})
 
-        Label(torso,"Gilded",Color3.new(1,0.84,0.1))
+        Label(torso,"2 kills",Color3.new(1,0.84,0.1))
     end
 
     -- Create model and run aura
